@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(218, 218, 200);
+    font-family: "Pixelify Sans", sans-serif;
+    text-align: center
+ }
+
+.yellow {
+    color: rgb(188, 232, 28);
+
+ }
+
+
+ li{ list-style-type:none;
+    font-size: 3rem
+     padding: 5px
+     margin:larger
+background-color:rgb(197, 166, 86) 
+
+
+}
+
